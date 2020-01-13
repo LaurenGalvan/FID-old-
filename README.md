@@ -1,5 +1,10 @@
  # This is my README.md
  -----------------------------------------------------------------------------
+  
+ This Reposity is to Host my classwork for [_**DIG2500 Fundamentals of Interactive Design Online**_](https://www.seminolestate.edu/catalog/courses/dig2500c)
+ It will allow my professor and fellow classmates to view my work for critique and grade. 
+ 
+ -----------------------------------------------------------------------------
 
 #### The rest from here on out is practice with markdown.
 > - *practice*
